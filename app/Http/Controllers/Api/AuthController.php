@@ -69,4 +69,6 @@ public function me(Request $request)
     return $request->user();
 }
 
+// logout
+
 }
